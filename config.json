@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configconnect",
+        "uuid": 19325600,
+        "checksum": "gb0ey"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
